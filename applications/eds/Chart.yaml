@@ -1,0 +1,7 @@
+apiVersion: v2
+dependencies:
+  - name: event-delivery-service-kube-operator
+    repository: https://charts.kinguin.services
+    version: 0.2.5
+description: A Helm chart for event-delivery-service
+name: a-event-delivery-service-kube-operator
